@@ -6,7 +6,7 @@ The code is tested on a Yamaha HTR-4068
 
 
 1. Add a reference to the YamahaMusicCast.dll to your project
-2. Use the IMusicCastClient class to get started:
+2. Use the IMusicCastClient interface to get started:
 
     var deviceIp = IPAddress.Parse("127.0.0.1");
     IMusicCastClient client = new MusicCastClient(deviceIp);

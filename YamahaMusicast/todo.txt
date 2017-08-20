@@ -1,0 +1,39 @@
+
+
+General
+----------
+
+- prepareInputChange + setInput
+- Implement getFeatures to check which API functions/params are available
+- getSoundProgramList (list of available scenes)
+- setSoundProgram
+
+
+Multiple devices
+-----------------
+
+- Implement zones
+- Implement device linking
+- <zone>/getStatus
+
+
+
+Settings
+----------
+- SetAutoPowerStandby
+
+
+
+
+Optional
+----------
+
+- Implement getNetworkStatus
+- setSleep (sleep timeout)
+- NET/USB functions
+
+
+
+Advanced
+---------
+- Search for available devices on the network
